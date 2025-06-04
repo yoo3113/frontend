@@ -24,9 +24,16 @@ git branch 브랜치이름 //브랜치 생성 명령어
 
 git checkout 브랜치이름 //브랜치 이동을 위한 명령어
 
-git merge 브랜치이름 //브랜치와 다른 브랜치를 머지하기위한 명령어
+git merge 브랜치이름 //브랜치와 다른 브랜치를 합치기 위한 명령어
 
 git branch -d 브랜치이름 //브랜치를 삭제하는 명령어
 
 PR : Pull Request
 
+git push //원격 저장소에 저장
+
+git pull // 원격 저장소에 있는 정보를 불러옴
+
+나 작업하고 있어
+
+git stash // 잠깐 작업했던것 보관
