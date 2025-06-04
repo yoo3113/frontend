@@ -23,3 +23,9 @@ git branch //현재 모든 브랜치들을 볼 수 있는 명령어\
 git branch 브랜치이름 //브랜치 생성 명령어
 
 git checkout 브랜치이름 //브랜치 이동을 위한 명령어
+
+git merge 브랜치이름 //브랜치와 다른 브랜치를 머지하기위한 명령어
+
+git branch -d 브랜치이름 //브랜치를 삭제하는 명령어
+
+PR : Pull Request
