@@ -29,3 +29,4 @@ git merge 브랜치이름 //브랜치와 다른 브랜치를 머지하기위한 
 git branch -d 브랜치이름 //브랜치를 삭제하는 명령어
 
 PR : Pull Request
+
