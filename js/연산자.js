@@ -31,3 +31,6 @@ e--; // e = e - 1;
 console.log('e--', e); // e = 1
 console.log('++e', ++e); // e = 2
 console.log('--e', --e); // e = 1
+
+// 나머지 연산
+console.log(5 % 3); //2

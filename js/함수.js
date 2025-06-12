@@ -1,5 +1,6 @@
 const a = 1;
 const b = 10;
+const c = 100;
 
 // 기본 함수 선억식
 function functionName(x, y) { 

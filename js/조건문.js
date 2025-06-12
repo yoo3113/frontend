@@ -2,18 +2,19 @@ const a = 1;
 const b = 2;
 const c = 1;
 
-// if (a === b) {
-//     console.log('조건문 안에 드렁옴');
-// } else if (a !== c) {
-//     console.log('두번째 조건이 충족됨');
-// } else if (b > c) {
-//     console.log('세번째 조건이 충족됨');
-// } else if (b > c) {
-//     console.log('네번째 조건이 충족됨');
-// } else if (b > c) {
-//     console.log('다섯섯번째 조건이 충족됨');
-// } else if (b > c) {
-// }
+if (a === b) {
+    console.log('첫번째 조건문 안에 드렁옴');
+} else if (a !== c) {
+    console.log('두번째 조건이 충족됨');
+} else if (b > c) {
+    console.log('세번째 조건이 충족됨');
+} else if (c === a) {
+    console.log('네번째 조건이 충족됨');
+} else if (b < c) {
+    console.log('다섯섯번째 조건이 충족됨');
+} else if (b > c) {
+    console.log('조건문이 충족되지 않음');
+}
 
 // 삼항 연산자
 const result = a === b ? 'a와 b는 같습니다' : 'a와 b는 다릅니다';
